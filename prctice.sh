@@ -1,1 +1,2 @@
-print("helloworld")
+ bin/bash 
+ print("helloworld")
