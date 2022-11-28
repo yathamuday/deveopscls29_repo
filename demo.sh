@@ -6,3 +6,4 @@ echo "********* Display Today date *******"
 date
 echo " ******* Display jenkins memory space *******"
 free -m
+echo "******** this is a testing file *******"
