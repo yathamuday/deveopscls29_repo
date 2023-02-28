@@ -4,3 +4,5 @@ echo ********** This command display memory space *********
 free -m
 echo ********** This command dispaly today date********
 date
+echo ********** This command disply cpu status******
+top
