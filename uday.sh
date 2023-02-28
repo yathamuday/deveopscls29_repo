@@ -5,4 +5,4 @@ free -m
 echo ********** This command dispaly today date********
 date
 echo ********** This command disply cpu status******
-top
+df
